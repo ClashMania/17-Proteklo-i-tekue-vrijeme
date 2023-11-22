@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\bin\Debug\17 Proteklo i tekuce vrijeme.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\bin\Debug\17 Proteklo i tekuce vrijeme.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\bin\Debug\17 Proteklo i tekuce vrijeme.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\_17_Proteklo_i_tekuce_vrijeme.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\_17_Proteklo_i_tekuce_vrijeme.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\17 Proteklo i tekuce vrijeme\obj\Debug\17 Proteklo i tekuce vrijeme.pdb
